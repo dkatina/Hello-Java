@@ -1,3 +1,5 @@
+package School;
+
 public class Student {
     String name;
     int age;
